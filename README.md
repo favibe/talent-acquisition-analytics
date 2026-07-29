@@ -241,9 +241,7 @@ This single function unlocked the **talent source analysis** that revealed Andel
 
 ## 👤 Author
 
-**[Your Name]**
-- 🎓 Final-year Software Engineering Student
-- 💼 SIWES at NCAIR (NITDA)
+**[Favour Ibe]**
 - 🐍 Python | Pandas | Data Analytics | Regex
 - 🔗 [LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url)
 
