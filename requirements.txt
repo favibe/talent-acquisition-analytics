@@ -1,0 +1,10 @@
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+openpyxl>=3.0.0
+jupyter>=1.0.0
+
+
+
+I analyzed 1,550 tech talent profiles to understand why only 33% were approved. I discovered that junior-level candidates have a 63% approval rate nearly double the average,  while lead-level candidates only have 23%. I also found that DevOps/SRE roles perform best at 40% approval. My recommendation was to shift 20% of the pipeline toward junior DevOps talent, which could raise the overall approval rate from 33% to 40%+. I built this using Python, Pandas, and regex for text extraction, with Matplotlib/Seaborn for visualization."
