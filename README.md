@@ -92,19 +92,8 @@ A tech talent acquisition platform processed **1,550 candidate profiles** but ac
 
 ---
 
-## 📂 Project Structure
-talent-acquisition-analytics/
-├── data/
-│   └── raw_data.xlsx
-├── notebooks/
-│   └── 01_talent_analysis.ipynb
-├── src/
-│   └── data_cleaning.py
-├── images/
-│   └── [6 visualization PNGs]
-├── README.md
-├── requirements.txt
-└── LICENSE
+
+
 
 
 ---
